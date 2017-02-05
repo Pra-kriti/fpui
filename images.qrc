@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>download.jpg</file>
+        <file>download.png</file>
+        <file>download (1).jpg</file>
+        <file>images.png</file>
+        <file>images (1).jpg</file>
+        <file>images (1).png</file>
+        <file>images (3).jpg</file>
+        <file>images (5).jpg</file>
+        <file>_86044379_facebookemoticonsap.jpg</file>
+    </qresource>
+</RCC>
